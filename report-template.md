@@ -24,7 +24,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
-  * This model will help show accuracy on what the credit is of the borrowers. It has a high accuracy level of 95% is prediciting the outcome of the repayment of the initial loan. The borrower has good credit and will be able to make repayments to the loan.
+  * This model will help show accuracy on what the credit is of the borrowers. It has a high accuracy level of 95% is prediciting the outcome of the repayment of the initial loan. The borrower has good credit and will be able to make repayments to the loan. It has a precision score of 92% which shows that 92% of scores were correct. It has a recall score of 95% which shows that the model was 95% precise in measuring true positive values. 
 
 
 
@@ -37,6 +37,6 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 * Which one seems to perform best? How do you know it performs best?
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
-* I would recommend model 1 because it shows a 95% accuracy and predicts that the borrower can make repayments. It also looks into the borrower's credit which can help make conclusions on their financial outlook. This model performs best because it takes a good set of data to come up with the accuracy of the results. There is just the right number of factors that are used for consideration. 
+* I would recommend model 2 because it shows 99% accuracy and this is more accurate in providing the correct results. I would recommend model 1 because it shows a 95% accuracy and predicts that the borrower can make repayments. It also looks into the borrower's credit which can help make conclusions on their financial outlook. Model 2 performs best because it takes a good set of data to come up with the accuracy of the results and the data need to be more precise. There is just the right number of factors that are used for consideration. 
 
 If you do not recommend any of the models, please justify your reasoning.
